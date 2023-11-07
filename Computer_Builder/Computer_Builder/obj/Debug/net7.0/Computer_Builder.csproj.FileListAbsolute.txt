@@ -1,0 +1,14 @@
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\obj\Debug\net7.0\Computer_Builder.GeneratedMSBuildEditorConfig.editorconfig
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\obj\Debug\net7.0\Computer_Builder.AssemblyInfoInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\obj\Debug\net7.0\Computer_Builder.AssemblyInfo.cs
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\obj\Debug\net7.0\Computer_Builder.csproj.CoreCompileInputs.cache
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\bin\Debug\net7.0\Computer_Builder.exe
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\bin\Debug\net7.0\Computer_Builder.deps.json
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\bin\Debug\net7.0\Computer_Builder.runtimeconfig.json
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\bin\Debug\net7.0\Computer_Builder.dll
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\bin\Debug\net7.0\Computer_Builder.pdb
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\obj\Debug\net7.0\Computer_Builder.dll
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\obj\Debug\net7.0\refint\Computer_Builder.dll
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\obj\Debug\net7.0\Computer_Builder.pdb
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\obj\Debug\net7.0\Computer_Builder.genruntimeconfig.cache
+D:\АлтГУ\Сессия\АПС\Lab3\Computer_Builder\Computer_Builder\obj\Debug\net7.0\ref\Computer_Builder.dll
